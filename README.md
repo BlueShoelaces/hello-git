@@ -1,4 +1,7 @@
 # HELLO GIT
 ## All about Nicole
-My name is Nicole!  
-My favorite Grateful Dead song is Jack-a-Roe.
+My name is Nicole!
+### Nicole's favorite Grateful Dead songs
+* China Cat Sunflower
+* Bird Song
+* Cassidy
