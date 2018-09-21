@@ -10,3 +10,5 @@
 Richardpotato
 ~~~
 
+## All about Nicole
+My name is Nicole!
