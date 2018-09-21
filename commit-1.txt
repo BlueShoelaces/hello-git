@@ -1,1 +1,14 @@
 Here's the first commit!
+
+vim command testing
+insert above O
+
+insert below: o
+
+append at end of line: A
+
+append: a
+
+insert: i
+
+write quit: wq
