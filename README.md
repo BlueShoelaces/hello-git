@@ -5,3 +5,9 @@ My name is Nicole!
 * China Cat Sunflower
 * Bird Song
 * Cassidy
+### Nicole's favorite styles of beer
+* Oktoberfest
+* Porter
+* Hefeweizen
+* Brown ale
+* American pale ale
