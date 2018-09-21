@@ -11,4 +11,5 @@ Richardpotato
 ~~~
 
 ## All about Nicole
-My name is Nicole!
+My name is Nicole!  
+My favorite Grateful Dead song is China Cat Sunflower.
